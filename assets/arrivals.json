@@ -1,0 +1,14 @@
+[
+{"Flightnumber":"KL2621","airport":"Valencia","scheduled":"00:05","status":"Arrived","hall":"1","carrier":"KLM Royal Dutch Airlines","condition":"rain"},
+{"Flightnumber":"HV6336","airport":"Tel Aviv","scheduled":"00:05","status":"Arrived","hall":"1","carrier":"Transavia.com","condition":"cloudy"},
+{"Flightnumber":"HV5134","airport":"Barcelona","scheduled":"00:10","status":"Arrived","hall":"1","carrier":"Transavia.com","condition":"clear"},
+{"Flightnumber":"HV1326","airport":"Preveza","scheduled":"00:15","status":"Arrived","hall":"1","carrier":"Transavia.com","condition":"foggy"},
+{"Flightnumber":"HV1326","airport":"Kefallinia","scheduled":"00:15","status":"Arrived","hall":"1","carrier":"Transavia.com","condition":"rain"},
+{"Flightnumber":"OR252","airport":"Kos","scheduled":"00:15","status":"Arrived","hall":"3","carrier":"ArkeFly","condition":"rain"},
+{"Flightnumber":"HV6146","airport":"Alicante","scheduled":"00:20","status":"Arrived","hall":"1","carrier":"Transavia.com","condition":"darkcloudy"},
+{"Flightnumber":"HV5134","airport":"Barcelona","scheduled":"00:10","status":"Arrived","hall":"1","carrier":"Transavia.com","condition":"clear"},
+{"Flightnumber":"HV1326","airport":"Preveza","scheduled":"00:15","status":"Arrived","hall":"1","carrier":"Transavia.com","condition":"clear"},
+{"Flightnumber":"HV1326","airport":"Kefallinia","scheduled":"00:15","status":"Arrived","hall":"1","carrier":"Transavia.com","condition":"cloudy"},
+{"Flightnumber":"OR252","airport":"Kos","scheduled":"00:15","status":"Arrived","hall":"3","carrier":"ArkeFly","condition":"rain"},
+{"Flightnumber":"HV6146","airport":"Alicante","scheduled":"00:20","status":"Arrived","hall":"1","carrier":"Transavia.com","condition":"rain"}
+]

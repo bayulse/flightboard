@@ -1,0 +1,14 @@
+[
+{"Flightnumber":"HV723","airport":"Tel Aviv","scheduled":"02:00","status":"Departed","hall":"1","checkinRows":"030405","carrier":"Transavia.com","condition":"clear"},
+{"Flightnumber":"CND391","airport":"Heraklion","scheduled":"04:30","status":"Departed","hall":"3","checkinRows":"31","carrier":"Corendon Dutch Airlines","condition":"rain"},
+{"Flightnumber":"CAI20","airport":"Antalya","scheduled":"05:00","status":"Departed","hall":"3","checkinRows":"31","carrier":"Corendon Airlines","condition":"cloudy"},
+{"Flightnumber":"CZ7707","airport":"Hamburg","scheduled":"10:45","status":"Departed","hall":"1","checkinRows":"111314","carrier":"China Southern Airlines","condition":"clear"},
+{"Flightnumber":"SK822","airport":"Oslo","scheduled":"10:45","status":"Departed","hall":"1","checkinRows":"02","carrier":"SAS Scandinavian Airlines","condition":"clear"},
+{"Flightnumber":"9W6825","airport":"Paris de Gaulle","scheduled":"10:45","status":"Departed","hall":"1","checkinRows":"060708","carrier":"","condition":"rain"},
+{"Flightnumber":"AF1341","airport":"Milan","scheduled":"10:45","status":"Departed","hall":"1","checkinRows":"060708","carrier":"Air France","condition":"foggy"},
+{"Flightnumber":"KL2007","airport":"Rio de Janiero","scheduled":"10:45","status":"Departed","hall":"1","checkinRows":"060708","carrier":"KLM Royal Dutch Airlines","condition":"rain"},
+{"Flightnumber":"AM6003","airport":"Jakarta","scheduled":"10:45","status":"Departed","hall":"1","checkinRows":"060708","carrier":"Aeromexico","condition":"darkcloudy"},
+{"Flightnumber":"MK9643","airport":"London","scheduled":"10:45","status":"Departed","hall":"1","checkinRows":"060708","carrier":"Air Mauritius","condition":"clear"},
+{"Flightnumber":"DL8405","airport":"Yogyakarta","scheduled":"10:45","status":"Departed","hall":"1","checkinRows":"111314","carrier":"Delta Air Lines","condition":"clear"},
+{"Flightnumber":"KL1583","airport":"Bologna","scheduled":"10:45","status":"Departed","hall":"1","checkinRows":"060708","carrier":"KLM Royal Dutch Airlines","condition":"rain"}
+]
